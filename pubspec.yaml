@@ -34,6 +34,7 @@ dependencies:
   flutter_expandable_fab: ^1.7.1
   curved_navigation_bar: ^1.0.3
   flip_card: ^0.7.0
+  flutter_slidable: ^2.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
